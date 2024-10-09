@@ -1,0 +1,7 @@
+{
+"client_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+"client_secret": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+"callback_uri": "https://oauth.pstmn.io/v1/callback",
+"scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public",
+"token": {}
+}
